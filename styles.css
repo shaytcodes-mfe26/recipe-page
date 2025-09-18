@@ -1,2 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
 
+:root{
+  --clr-neutral-White: #ffffff;
+  --clr-neutral-Stone: #f3e6d8;
+  --clr-natural-Stone: #e4ded8;
+  --clr-neutral-Dark-Stone: #5f574e;
+  --clr-deep-Dark-Stone: #302d2c;
+  --clr-deep-Red-Brown: #854532;
+  --clr-deep-Purple-Rose: #7b284f;
+  --clr-neutral-Light-Rose: #fff5fa;
+  
+  --ff: 'Young Serif', 'Outfit', sans-serif;
+  --fs-body: 1rem;
+  --fs-heading: 1.375rem;
+  --fw-400: 400;
+  --fw-600: 600;
+  --fw-700: 700;
+  --fw-bold: 400;
+}
+
+*,*::before,*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  
+}
