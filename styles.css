@@ -28,3 +28,7 @@
 h1{
   
 }
+
+.bold-text{
+  font-weight: var(--fw-bold);
+}
