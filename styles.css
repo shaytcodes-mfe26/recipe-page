@@ -25,10 +25,26 @@
   box-sizing: border-box;
 }
 
+img{
+  display: block;
+  max-width: 100%;
+  margin-inline: auto;
+  font-stylec: italic;
+  color: var(--clr-deep-Red-Brown);
+}
+
 h1{
   
+}
+
+.recipe-container{
+  width: 30rem;
+  padding: 1.75rem;
+  border-radius: .6rem;
+  background: var(--clr-neutral-White)
 }
 
 .bold-text{
   font-weight: var(--fw-bold);
 }
+
