@@ -25,15 +25,21 @@
   box-sizing: border-box;
 }
 
-body{
-  font-family: var(--ff);
-}
+
 
 h1{
   
+}
+
+.recipe-container{
+  width: 30rem;
+  padding: 1.75rem;
+  border-radius: .6rem;
+  background: var(--clr-neutral-White)
 }
 
 .bold-text{
   font-weight: var(--fw-bold);
   color: var(--clr-deep-Dark-Stone)
 }
+
