@@ -26,6 +26,7 @@
 }
 
 body{
+  background: var(--clr-neutral-Stone);
   font-family: var(--ff);
 }
 
@@ -33,12 +34,13 @@ img{
   display: block;
   max-width: 100%;
   margin-inline: auto;
-  font-stylec: italic;
+  font-style: italic;
   color: var(--clr-deep-Red-Brown);
 }
 
-h1{
-  
+h3{
+ color: var(--clr-deep-Purple-Rose); 
+
 }
 
 .recipe-container{
