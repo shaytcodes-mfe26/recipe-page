@@ -30,12 +30,23 @@ body{
   font-family: var(--ff);
 }
 
+.wrapper{
+  display: block;
+  place-items: center;
+  min-height: 100dvh
+}
+
 img{
   display: block;
   max-width: 100%;
   margin-inline: auto;
+  border-radius: .6rem;
   font-style: italic;
   color: var(--clr-deep-Red-Brown);
+}
+
+h2{
+  color: var(--clr-deep-Red-Brown)
 }
 
 h3{
