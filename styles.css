@@ -64,7 +64,7 @@ p{
 }
 
 .prep-list li{
-  text-decoration: dotted;
+  text-decoration: dotted, var(--clr-deep-Purple-Rose);
   color: var(--clr-deep-Purple-Rose);
 }
 
@@ -89,3 +89,16 @@ h3{
   color: var(--clr-deep-Dark-Stone)
 }
 
+table{
+  table-layout: fixed;
+
+}
+
+td{
+  width: 80%;
+  border-bottom: 1px solid #e4ded8;
+}
+
+td:nth-child(2){
+  color: var(--clr-deep-Red-Brown);
+}
