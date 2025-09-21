@@ -49,9 +49,27 @@ h2{
   color: var(--clr-deep-Red-Brown)
 }
 
+p{
+  font-family: 'Outfit';
+  font-weight: var(--fw-400);
+
+}
 .prep-it{
   background: var(--clr-neutral-Light-Rose);
-  padding-left: .5rem;
+  
+}
+
+.prep-list{
+  margin-left: 2rem;
+}
+
+.prep-list li{
+  text-decoration: dotted;
+  color: var(--clr-deep-Purple-Rose);
+}
+
+li{
+  font-family: 'Outfit';
 }
 
 h3{
