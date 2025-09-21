@@ -49,6 +49,11 @@ h2{
   color: var(--clr-deep-Red-Brown)
 }
 
+.prep-it{
+  background: var(--clr-neutral-Light-Rose);
+  padding-left: .5rem;
+}
+
 h3{
  color: var(--clr-deep-Purple-Rose); 
 
