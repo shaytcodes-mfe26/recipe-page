@@ -50,14 +50,19 @@ h2{
   color: var(--clr-deep-Red-Brown)
 }
 
+section{
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e4ded8;
+}
+
 p{
   font-family: 'Outfit';
   font-weight: var(--fw-400);
-
+  padding-bottom: 2rem;
 }
 .prep-it{
   background: var(--clr-neutral-Light-Rose);
-  
+  padding-bottom: 1rem;
 }
 
 .prep-list{
@@ -76,7 +81,8 @@ li{
 h3{
   margin-left: 1rem;
  color: var(--clr-deep-Purple-Rose); 
-
+  padding-top: 1rem;
+  padding-bottom: .75rem;
 }
 
 .recipe-container{
