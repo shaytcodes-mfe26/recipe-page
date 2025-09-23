@@ -50,9 +50,13 @@ h2{
   color: var(--clr-deep-Red-Brown)
 }
 
-section:nth-child(2), section:nth-child(3){
+section{
   padding-bottom: 2rem;
-  border-bottom: 1px solid #e4ded8;
+}
+
+.need-it, .do-it{
+     border-bottom: 1px solid #e4ded8;
+     margin-top: .75rem;
 }
 
 p{
@@ -63,6 +67,7 @@ p{
 .prep-it{
   background: var(--clr-neutral-Light-Rose);
   padding-bottom: 1rem;
+ 
 }
 
 .prep-list{
@@ -70,6 +75,7 @@ p{
 }
 
 .prep-list li{
+  
   text-decoration: dotted, var(--clr-deep-Purple-Rose);
   color: var(--clr-deep-Purple-Rose);
 }
