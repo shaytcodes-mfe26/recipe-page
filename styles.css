@@ -50,7 +50,7 @@ h2{
   color: var(--clr-deep-Red-Brown)
 }
 
-section{
+section:nth-child(2), section:nth-child(3){
   padding-bottom: 2rem;
   border-bottom: 1px solid #e4ded8;
 }
