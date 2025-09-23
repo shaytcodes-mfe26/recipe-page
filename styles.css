@@ -48,7 +48,8 @@ img{
 }
 
 h2{
-  color: var(--clr-deep-Red-Brown)
+  color: var(--clr-deep-Red-Brown);
+  padding-bottom: 1rem;
 }
 
 section{
