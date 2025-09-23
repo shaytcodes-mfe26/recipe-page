@@ -44,6 +44,7 @@ img{
   border-radius: .6rem;
   font-style: italic;
   color: var(--clr-deep-Red-Brown);
+  padding-bottom: 1rem;
 }
 
 h2{
