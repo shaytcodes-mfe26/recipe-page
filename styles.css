@@ -56,7 +56,7 @@ section{
 
 .need-it, .do-it{
      border-bottom: 1px solid #e4ded8;
-     margin-top: .75rem;
+     padding-bottom: .75rem;
 }
 
 p{
